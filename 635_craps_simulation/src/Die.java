@@ -1,4 +1,5 @@
 // my first git comment..
+// my second git comment 
 public class Die
 {
 	private int lastRoll;
