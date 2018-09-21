@@ -1,4 +1,5 @@
 //a
+//b
 public class CrapsGame
 {
 	private int point;
